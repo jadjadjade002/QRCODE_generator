@@ -1,2 +1,2 @@
 # QRCode_generator.py
-Jadesadakorn Kamolvimutsarn (50204)
+Jadesadakorn Kamolvimutsarn
