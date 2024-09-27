@@ -1,6 +1,5 @@
 import qrcode
 from tkinter import *
-from tkinter import filedialog
 from PIL import Image, ImageTk, ImageDraw, ImageOps
 import os
 from reportlab.pdfgen import canvas
