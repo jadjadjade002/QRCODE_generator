@@ -1,2 +1,2 @@
 # QRCode_generator.py
-Jadesadakorn Kamolvimutsarn
+This QR Code generator program was created because I noticed that when designing posters for advertisements, whether for educational purposes, event promotions, recruitment, or other activities, it is often necessary to include a QR Code. Many times, scanning the QR Code directs users to a specific website. Therefore, I developed this program with functionalities such as adding a logo to the QR Code and saving the QR Code.
