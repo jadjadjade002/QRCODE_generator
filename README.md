@@ -1,6 +1,6 @@
 # QR Code Generator with Logo Support
 
-This is a Python-based GUI application to generate QR codes with optional logo support, using `qrcode`, `PIL`, `Tkinter`, and more. It allows users to enter a URL or text, generate a QR code, and optionally insert a logo in the center of the QR code. The generated QR code can be saved in PNG, SVG, or PDF format.
+This is a Python-based GUI application to generate QR codes with optional logo support, using `qrcode`, `PIL`, `Tkinter`, and more. It allows users to enter a URL or text, generate a QR code, and optionally insert a logo in the center of the QR code. The generated QR code can be saved in PNG format.
 
 ## Features
 - Generate a QR code from a given URL or text.
