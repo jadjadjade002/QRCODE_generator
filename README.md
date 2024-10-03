@@ -13,15 +13,14 @@ This is a Python-based GUI application to generate QR codes with optional logo s
 ### Prerequisites
 1. **Python 3.6+** is required.
 2. Install the following libraries using `pip`:
-
-  pip install qrcode[pil] Pillow tkinter reportlab svglib
+  *pip install qrcode[pil] Pillow tkinter reportlab svglib*
 
 **How to Run**
 - Download the project files.
 - Ensure you have installed all required libraries.
 - Detect file location (with cd)
 - Run the script using the following command:
-    python QRCode_generator.py
+    *python QRCode_generator.py*
 
 **How it Works**
 
