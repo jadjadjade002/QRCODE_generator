@@ -19,8 +19,9 @@ This is a Python-based GUI application to generate QR codes with optional logo s
 **How to Run**
 - Download the project files.
 - Ensure you have installed all required libraries.
+- Detect file location (with cd)
 - Run the script using the following command:
-  python qr_code_generator.py
+    python QRCode_generator.py
 
 **How it Works**
 
