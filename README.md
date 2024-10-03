@@ -14,6 +14,7 @@ This is a Python-based GUI application to generate QR codes with optional logo s
 1. **Python 3.6+** is required.
 2. Install the following libraries using `pip`:
   *pip install qrcode[pil] Pillow tkinter reportlab svglib*
+   For some device, Tkinter may already be installed, so you can remove tkinter from command.
 
 **How to Run**
 - Download the project files.
