@@ -1,5 +1,6 @@
 import qrcode
 from tkinter import *
+from tkinter import filedialog
 from PIL import Image, ImageTk, ImageDraw, ImageOps
 import os
 from reportlab.pdfgen import canvas
@@ -104,6 +105,7 @@ qr_label.pack(pady=10)
 
 # Upload logo button
 type_label = Label(root, text="Only file type: png , jpg , jpeg for logo")
+
 type_label.pack(pady=10)
 logo_path = ""
 upload_logo_button = Button(root, text="Upload Logo (Optional)", command=upload_logo)
